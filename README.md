@@ -15,7 +15,9 @@ I'm passionate about **AI, Cloud technologies, and System Architecture**, and al
 💡 **Strong team player** | 🧠 **Fast learner** | ⚙️ **Loves working with tech & people**
 
 ---
-## 🚀 Languages & Technologies
+## 🛠 Skills & Technologies
+
+### 🚀 Languages & Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
@@ -30,7 +32,7 @@ I'm passionate about **AI, Cloud technologies, and System Architecture**, and al
 
 ---
 
-## 🧰 Frameworks & Tools
+### 🧰 Frameworks & Tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
@@ -41,22 +43,23 @@ I'm passionate about **AI, Cloud technologies, and System Architecture**, and al
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=fff)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=fff)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 
 ---
 
-## ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=fff)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=fff)
-![S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=fff)
-![Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF4F00?style=flat-square&logo=amazon&logoColor=fff)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=fff)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=fff)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF4F00?style=flat-square&logo=amazon&logoColor=fff)
 
 ---
 
-## 🤖 Machine & Deep Learning
+### 🤖 Machine & Deep Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff)
@@ -64,7 +67,6 @@ I'm passionate about **AI, Cloud technologies, and System Architecture**, and al
 ![Seaborn](https://img.shields.io/badge/Seaborn-4ECDC4?style=flat-square&logo=python&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=fff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6F00?style=flat-square&logo=huggingface&logoColor=fff)
 
 ---
 
