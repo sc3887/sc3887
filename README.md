@@ -66,6 +66,40 @@ I'm passionate about **AI, Cloud technologies, and System Architecture**, and al
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=fff)
 
 ---
+## 💼 Experience
+
+### 🔹 Full Stack Developer Inferai (2025–Present)
+AI-powered communication platform using Retrieval-Augmented Generation (RAG)
+
+- 🧠 Developed modern conversational UI with **React, Node.js, and Python**
+- ☁️ Built cloud-native infrastructure on **AWS** using **Lambda, S3, and Bedrock**
+- 🤖 Integrated advanced AI models (**Claude, GPT**) for intelligent interactions
+- 🔁 Containerized deployments with **Docker** for scalable and fast updates
+- 👥 Used Agile workflows and **GitHub** collaboration for efficient teamwork
+
+---
+
+### 🔹 Business System (2024–2025) – Fullstack Developer
+System for managing customer & manager data in an **ice cream purchasing program**
+
+- 🏢 Developed a full-stack system with **ASP.NET Core (C#)** backend and **JavaScript** frontend  
+- 🔐 Implemented secure RESTful API with role-based access (admins & users) and full CRUD operations  
+- 🔑 Added JWT authentication with cookie-based secure token storage  
+- 🧩 Used **Dependency Injection** and layer separation for easy testing and scalability  
+- 📊 Applied **SOLID principles** + Serilog logging + Swagger for documentation & reliability  
+
+---
+
+### 🔹 WIT – Version Control & Code Analysis Tool (2024–2025) – Python Developer
+CLI + Server project integrating version control with automated code analysis
+
+- 💻 Built a Git-like CLI tool using **Python** + Click library  
+- 🧱 Designed with OOP principles for extensibility and maintainability  
+- ⚡ Developed **FastAPI** server analyzing Python files on each push, generating reports & graphs  
+- 🗄️ Implemented **SQL Server** for managing versions, commits, and rollbacks  
+- 📈 Automated code analysis with **Matplotlib** reports, improving internal CI workflow  
+
+---
 
 ## 🎓 Education
 **Software Engineering | MAHAT – College of Management**  
