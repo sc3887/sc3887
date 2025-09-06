@@ -113,7 +113,7 @@ CLI + Server project integrating version control with automated code analysis
 - **English** – Fluent  
 ---
 <p align="center">
-  <img width="48%"
+  <img width="53%"
        src="https://github-readme-stats.vercel.app/api?username=sc3887&show_icons=true&theme=default&hide_border=false&border_radius=6" />
   <img width="48%"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc3887&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=default&hide_border=false&border_radius=6" />
