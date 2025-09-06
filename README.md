@@ -117,28 +117,20 @@ CLI + Server project integrating version control with automated code analysis
 
 <table>
   <tr>
-    <!-- Left: Most Used Languages -->
+    <!-- Most Used Languages -->
     <td valign="top" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc3887&layout=compact&langs_count=8&hide=Jupyter%20Notebook&card_width=420&theme=default"
-        alt="Top Languages"
-      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc3887&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=default" alt="Top Languages" />
     </td>
 
-    <!-- Right: Stats + Streak -->
+    <!-- GitHub Stats -->
     <td valign="top" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=sc3887&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default"
-        alt="GitHub Stats"
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=sc3887&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" />
       <br />
-      <img
-        src="https://streak-stats.demolab.com?user=sc3887&theme=default"
-        alt="GitHub Streak"
-      />
+      <img src="https://streak-stats.demolab.com?user=sc3887&theme=default" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
 
 ---
 <p align="center">
