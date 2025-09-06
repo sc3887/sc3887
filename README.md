@@ -143,4 +143,11 @@ CLI + Server project integrating version control with automated code analysis
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sc3887&show_icons=true&theme=transparent" />
   <img height="160" src="https://streak-stats.demolab.com?user=sc3887&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc3887&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=transparent" />
+</p>
+
+---
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sc3887&show_icons=true&theme=transparent" />
+  <img height="160" src="https://streak-stats.demolab.com?user=sc3887&theme=transparent" />
 </p>
