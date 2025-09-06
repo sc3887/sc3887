@@ -115,22 +115,29 @@ CLI + Server project integrating version control with automated code analysis
 ---
 ## 📊 GitHub Overview
 
-<table>
-  <tr>
-    <!-- Most Used Languages -->
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc3887&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=default" alt="Top Languages" />
-    </td>
+<div align="center">
+  <!-- Left: Most Used Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc3887&layout=compact&langs_count=8&hide=Jupyter%20Notebook&card_width=420&theme=default"
+    alt="Top Languages"
+    width="48%"
+  />
+  <!-- Right: GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sc3887&show_icons=true&include_all_commits=true&count_private=true&theme=default"
+    alt="GitHub Stats"
+    width="48%"
+  />
+</div>
 
-    <!-- GitHub Stats -->
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sc3887&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" />
-      <br />
-      <img src="https://streak-stats.demolab.com?user=sc3887&theme=default" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
+---
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sc3887&theme=default"
+    alt="GitHub Streak"
+    width="48%"
+  />
+</div>
 
 ---
 <p align="center">
