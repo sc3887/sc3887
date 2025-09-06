@@ -112,14 +112,11 @@ CLI + Server project integrating version control with automated code analysis
 - **Hebrew** – Native  
 - **English** – Fluent  
 ---
-
-## 📊 GitHub Overview
-
 <p align="center">
-  <img height="140"
+  <img height="130"
        src="https://github-readme-stats.vercel.app/api?username=sc3887&show_icons=true&theme=default&hide_border=false&border_radius=6" />
-  <img height="140"
+  <img height="130"
        src="https://streak-stats.demolab.com?user=sc3887&theme=default&hide_border=false&border_radius=6" />
-  <img height="140"
+  <img height="130"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc3887&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=default&hide_border=false&border_radius=6" />
 </p>
