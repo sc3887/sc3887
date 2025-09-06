@@ -139,6 +139,7 @@ CLI + Server project integrating version control with automated code analysis
     </td>
   </tr>
 </table>
+
 ---
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sc3887&show_icons=true&theme=transparent" />
